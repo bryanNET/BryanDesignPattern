@@ -1,0 +1,24 @@
+E:\testProjects\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe.config
+E:\testProjects\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csprojResolveAssemblyReference.cache
+E:\testProjects\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe
+E:\testProjects\DesignPattern\DesignPattern\bin\Debug\DesignPattern.pdb
+E:\testProjects\DesignPattern\DesignPattern\obj\Debug\DesignPattern.exe
+E:\testProjects\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
+C:\Users\bryan\Desktop\设计模式\DesignPattern\bin\Debug\DesignPattern.exe.config
+C:\Users\bryan\Desktop\设计模式\DesignPattern\obj\Debug\DesignPattern.exe
+C:\Users\bryan\Desktop\设计模式\DesignPattern\obj\Debug\DesignPattern.pdb
+C:\Users\bryan\Desktop\设计模式\DesignPattern\bin\Debug\DesignPattern.exe
+C:\Users\bryan\Desktop\设计模式\DesignPattern\bin\Debug\DesignPattern.pdb
+C:\Users\bryan\Desktop\设计模式\DesignPattern\obj\Debug\DesignPattern.csprojResolveAssemblyReference.cache
+F:\Bryan\设计模式\DesignPattern\bin\Debug\DesignPattern.exe.config
+F:\Bryan\设计模式\DesignPattern\obj\Debug\DesignPattern.exe
+F:\Bryan\设计模式\DesignPattern\obj\Debug\DesignPattern.pdb
+F:\Bryan\设计模式\DesignPattern\bin\Debug\DesignPattern.exe
+F:\Bryan\设计模式\DesignPattern\bin\Debug\DesignPattern.pdb
+F:\Bryan\设计模式\DesignPattern\obj\Debug\DesignPattern.csprojResolveAssemblyReference.cache
+F:\Bryan\设计模式 Good\DesignPattern\bin\Debug\DesignPattern.exe.config
+F:\Bryan\设计模式 Good\DesignPattern\obj\Debug\DesignPattern.exe
+F:\Bryan\设计模式 Good\DesignPattern\obj\Debug\DesignPattern.pdb
+F:\Bryan\设计模式 Good\DesignPattern\bin\Debug\DesignPattern.exe
+F:\Bryan\设计模式 Good\DesignPattern\bin\Debug\DesignPattern.pdb
+F:\Bryan\设计模式 Good\DesignPattern\obj\Debug\DesignPattern.csprojResolveAssemblyReference.cache
